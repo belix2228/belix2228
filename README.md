@@ -49,20 +49,19 @@
 
 
 
-
-
 # 👋 Hi, I'm Belix A
-![Laptop Person](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
+
 ### Aspiring Data Analyst | SQL & Power BI Enthusiast | Bangalore, India
 
 I am a **recent graduate** with a strong foundation in **data analysis** and a passion for solving real-world business problems using data. I enjoy building **data-driven insights** through **Power BI dashboards** and SQL queries, with a focus on performance impact and business outcomes.
 
 ### 🛠️ Skills & Tools:
-![Power BI](https://media.giphy.com/media/RN8FdaB6T1bkkI5n4c/giphy.gif)
-![Tableau](https://media.giphy.com/media/j5LkcaDPImUOc/giphy.gif)
-![SQL](https://media.giphy.com/media/l3vR4Fp4U5nS6nVzG/giphy.gif)
-![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-![Excel](https://media.giphy.com/media/Y9iiZhR2U2PugwKWwp/giphy.gif)
+- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"/> **Power BI**
+- <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="50"/> **Tableau**
+- <img src="https://media.giphy.com/media/Jd6oCw5xqDTTpfxOtr/giphy.gif" width="50"/> **SQL**
+- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/> **Python**
+- <img src="https://media.giphy.com/media/IgGJmKS8cnQJ2/giphy.gif" width="50"/> **Excel**
 
 ### 🌟 Key Projects:
 1. **[Bank Loan Distribution Analysis](https://github.com/belix2228/Bank_Loan_Analysis)**
@@ -90,4 +89,3 @@ Trained in **Data Analysis** at Besant Technologies, Bangalore.
 ---
 
 “Data is the new oil, and I’m here to refine it.”
-

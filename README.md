@@ -28,19 +28,21 @@
 
 
 
+# 👋 Hi, I'm Belix A
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
 
-
+### Aspiring Data Analyst | SQL & Power BI Enthusiast | Bangalore, India
 
 I am a **recent graduate** with a strong foundation in **data analysis** and a passion for solving real-world business problems using data. I enjoy building **data-driven insights** through **Power BI dashboards** and SQL queries, with a focus on performance impact and business outcomes.
 
 ### 🛠️ Skills & Tools:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/><br>**Power BI**
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100"/><br>**Tableau**
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/><br>**SQL**
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/><br>**Python**
-  <img src="https://media.giphy.com/media/Veq8nduHO7PZe/giphy.gif" width="100"/><br>**Excel**
+  <img src="https://img.icons8.com/color/100/000000/power-bi.png" width="100" alt="Power BI Icon" /><br>**Power BI**
+  <img src="https://img.icons8.com/color/100/000000/tableau-software.png" width="100" alt="Tableau Icon" /><br>**Tableau**
+  <img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png" width="100" alt="SQL Icon"/><br>**SQL**
+  <img src="https://img.icons8.com/color/100/000000/python.png" width="100" alt="Python Icon"/><br>**Python**
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-excel-isometric-flaticons-lineal-color-flat-icons.png" width="100" alt="Excel Icon"/><br>**Excel**
 </p>
 
 ### 🌟 Key Projects:
@@ -67,4 +69,8 @@ Trained in **Data Analysis** at Besant Technologies, Bangalore.
 - **Email**: belixarockiyasaa@gmail.com
 
 ---
+
+“Data is the new oil, and I’m here to refine it.”
+
+
 

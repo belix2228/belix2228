@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BELIX A</h1>
-<h3 align="center">I'AM A FRESHER</h3>
+### Aspiring Data Analyst | SQL & Power BI Enthusiast | Bangalore, India
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belix2228&label=Profile%20views&color=0e75b6&style=flat" alt="belix2228" /> </p>
@@ -27,16 +27,20 @@
 
 
 
+
+
+
+
 I am a **recent graduate** with a strong foundation in **data analysis** and a passion for solving real-world business problems using data. I enjoy building **data-driven insights** through **Power BI dashboards** and SQL queries, with a focus on performance impact and business outcomes.
 
 ### 🛠️ Skills & Tools:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
-  <img src="https://media.giphy.com/media/Veq8nduHO7PZe/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/><br>**Power BI**
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100"/><br>**Tableau**
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/><br>**SQL**
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/><br>**Python**
+  <img src="https://media.giphy.com/media/Veq8nduHO7PZe/giphy.gif" width="100"/><br>**Excel**
 </p>
 
 ### 🌟 Key Projects:
@@ -64,4 +68,3 @@ Trained in **Data Analysis** at Besant Technologies, Bangalore.
 
 ---
 
-“Data is the new oil, and I’m here to refine it.”

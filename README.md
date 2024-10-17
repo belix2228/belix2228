@@ -27,3 +27,67 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belix2228&show_icons=true&locale=en" alt="belix2228" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belix2228&" alt="belix2228" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 👋 Hi, I'm Belix A
+![Laptop Person](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+### Aspiring Data Analyst | SQL & Power BI Enthusiast | Bangalore, India
+
+I am a **recent graduate** with a strong foundation in **data analysis** and a passion for solving real-world business problems using data. I enjoy building **data-driven insights** through **Power BI dashboards** and SQL queries, with a focus on performance impact and business outcomes.
+
+### 🛠️ Skills & Tools:
+![Power BI](https://media.giphy.com/media/RN8FdaB6T1bkkI5n4c/giphy.gif)
+![Tableau](https://media.giphy.com/media/j5LkcaDPImUOc/giphy.gif)
+![SQL](https://media.giphy.com/media/l3vR4Fp4U5nS6nVzG/giphy.gif)
+![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
+![Excel](https://media.giphy.com/media/Y9iiZhR2U2PugwKWwp/giphy.gif)
+
+### 🌟 Key Projects:
+1. **[Bank Loan Distribution Analysis](https://github.com/belix2228/Bank_Loan_Analysis)**
+   - Developed a **Power BI** dashboard analyzing loan distribution metrics.
+   - Extracted insights on loan types, repayment statuses, and more, enabling informed decision-making.
+
+2. **[Netflix Movies and TV Shows Data Analysis](https://github.com/belix2228/Netflix_SQL_Project)**
+   - Performed comprehensive analysis using **SQL** on Netflix data to generate key business insights.
+
+### 🎓 Education:
+**B.Tech in Information Technology**  
+Arunai Engineering College (2021-2024) | 75%  
+Trained in **Data Analysis** at Besant Technologies, Bangalore.
+
+### 💼 Areas of Interest:
+- Data Analyst
+- Business Analyst
+- Power BI Developer
+- SQL Developer
+
+### 🤝 Let's Connect:
+- **LinkedIn**: [Belix A](https://www.linkedin.com/in/belixarockiyadass/)
+- **Email**: belixarockiyasaa@gmail.com
+
+---
+
+“Data is the new oil, and I’m here to refine it.”
+

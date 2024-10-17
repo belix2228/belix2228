@@ -28,9 +28,6 @@
 
 
 
-# 👋 Hi, I'm Belix A
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
-
 ### Aspiring Data Analyst | SQL & Power BI Enthusiast | Bangalore, India
 
 I am a **recent graduate** with a strong foundation in **data analysis** and a passion for solving real-world business problems using data. I enjoy building **data-driven insights** through **Power BI dashboards** and SQL queries, with a focus on performance impact and business outcomes.
@@ -38,11 +35,11 @@ I am a **recent graduate** with a strong foundation in **data analysis** and a p
 ### 🛠️ Skills & Tools:
 
 <p align="center">
-  <img src="https://img.icons8.com/color/100/000000/power-bi.png" width="100" alt="Power BI Icon" /><br>**Power BI**
-  <img src="https://img.icons8.com/color/100/000000/tableau-software.png" width="100" alt="Tableau Icon" /><br>**Tableau**
-  <img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png" width="100" alt="SQL Icon"/><br>**SQL**
-  <img src="https://img.icons8.com/color/100/000000/python.png" width="100" alt="Python Icon"/><br>**Python**
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-excel-isometric-flaticons-lineal-color-flat-icons.png" width="100" alt="Excel Icon"/><br>**Excel**
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Veq8nduHO7PZe/giphy.gif" width="100"/>
 </p>
 
 ### 🌟 Key Projects:
@@ -53,24 +50,13 @@ I am a **recent graduate** with a strong foundation in **data analysis** and a p
 2. <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/> **[Netflix Movies and TV Shows Data Analysis](https://github.com/belix2228/Netflix_SQL_Project)**
    - Performed comprehensive analysis using **SQL** on Netflix data to generate key business insights.
 
-### 🎓 Education:
-**B.Tech in Information Technology**  
-Arunai Engineering College (2021-2024) | 75%  
-Trained in **Data Analysis** at Besant Technologies, Bangalore.
-
-### 💼 Areas of Interest:
-- Data Analyst
-- Business Analyst
-- Power BI Developer
-- SQL Developer
-
 ### 🤝 Let's Connect:
-- **LinkedIn**: [Belix A](https://www.linkedin.com/in/belixarockiyadass/)
-- **Email**: belixarockiyasaa@gmail.com
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/belixarockiyadass/"><img src="https://img.icons8.com/color/100/000000/linkedin.png" width="50" alt="LinkedIn"/></a>
+  <a href="mailto:belixarockiyasaa@gmail.com"><img src="https://img.icons8.com/color/100/000000/gmail-new.png" width="50" alt="Email"/></a>
+</p>
 
 ---
 
 “Data is the new oil, and I’m here to refine it.”
-
-
-

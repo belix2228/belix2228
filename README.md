@@ -18,9 +18,6 @@
 
 
 
-
-
-
 ### Aspiring Data Analyst | SQL & Power BI Enthusiast | Bangalore, India
 
 I am a **recent graduate** with a strong foundation in **data analysis** and a passion for solving real-world business problems using data. I enjoy building **data-driven insights** through **Power BI dashboards** and SQL queries, with a focus on performance impact and business outcomes.
@@ -28,11 +25,11 @@ I am a **recent graduate** with a strong foundation in **data analysis** and a p
 ### 🛠️ Skills & Tools:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/NxJ5ZpKHL8kXU/200.gif" width="100" alt="Power BI"/>
-  <img src="https://media.giphy.com/media/1l8xWgXbN3Cq6/200.gif" width="100" alt="Tableau"/>
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100" alt="SQL"/>
-  <img src="https://media.giphy.com/media/h8e1z8HNSYIMj77oeL/giphy.gif" width="100" alt="Python"/>
-  <img src="https://media.giphy.com/media/Veq8nduHO7PZe/giphy.gif" width="100" alt="Excel"/>
+  <img src="https://media.giphy.com/media/NQJ45Fpx9RukKxS1bi/giphy.gif" width="100" alt="Power BI"/>
+  <img src="https://media.giphy.com/media/RK0eRzF6w2iESct5PT/giphy.gif" width="100" alt="Tableau"/>
+  <img src="https://media.giphy.com/media/l3q2JmK2F2INg/giphy.gif" width="100" alt="SQL"/>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" alt="Python"/>
+  <img src="https://media.giphy.com/media/l1J3c5Q7evGZp1X96/giphy.gif" width="100" alt="Excel"/>
 </p>
 
 ### 🌟 Key Projects:
@@ -53,3 +50,6 @@ I am a **recent graduate** with a strong foundation in **data analysis** and a p
 ---
 
 “Data is the new oil, and I’m here to refine it.”
+
+
+

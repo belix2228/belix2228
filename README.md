@@ -16,8 +16,6 @@
 
 
 
-
-
 ### Aspiring Data Analyst | SQL & Power BI Enthusiast | Bangalore, India
 
 I am a **recent graduate** with a strong foundation in **data analysis** and a passion for solving real-world business problems using data. I enjoy building **data-driven insights** through **Power BI dashboards** and SQL queries, with a focus on performance impact and business outcomes.
@@ -29,7 +27,7 @@ I am a **recent graduate** with a strong foundation in **data analysis** and a p
   <img src="https://img.icons8.com/color/100/000000/tableau-software.png" width="100" alt="Tableau"/>
   <img src="https://img.icons8.com/ios-filled/100/000000/mysql-logo.png" width="100" alt="SQL"/>
   <img src="https://img.icons8.com/color/100/000000/python.png" width="100" alt="Python"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/000000/external-excel-isometric-flaticons-lineal-color-flat-icons.png" width="100" alt="Excel"/>
+  <img src="https://img.icons8.com/color/100/000000/microsoft-excel-2019.png" width="100" alt="Excel"/> <!-- Updated Excel Icon -->
 </p>
 
 ### 🌟 Key Projects:
@@ -50,3 +48,4 @@ I am a **recent graduate** with a strong foundation in **data analysis** and a p
 ---
 
 “Data is the new oil, and I’m here to refine it.”
+

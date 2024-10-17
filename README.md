@@ -47,8 +47,6 @@
 
 
 
-
-
 # 👋 Hi, I'm Belix A
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
 
@@ -57,18 +55,18 @@
 I am a **recent graduate** with a strong foundation in **data analysis** and a passion for solving real-world business problems using data. I enjoy building **data-driven insights** through **Power BI dashboards** and SQL queries, with a focus on performance impact and business outcomes.
 
 ### 🛠️ Skills & Tools:
-- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50"/> **Power BI**
-- <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="50"/> **Tableau**
-- <img src="https://media.giphy.com/media/Jd6oCw5xqDTTpfxOtr/giphy.gif" width="50"/> **SQL**
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/> **Python**
-- <img src="https://media.giphy.com/media/IgGJmKS8cnQJ2/giphy.gif" width="50"/> **Excel**
+- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/> **Power BI**
+- <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100"/> **Tableau**
+- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/> **SQL**
+- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/> **Python**
+- <img src="https://media.giphy.com/media/Veq8nduHO7PZe/giphy.gif" width="100"/> **Excel**
 
 ### 🌟 Key Projects:
-1. **[Bank Loan Distribution Analysis](https://github.com/belix2228/Bank_Loan_Analysis)**
+1. <img src="https://media.giphy.com/media/UWnmrkTzynM3rb7tCd/giphy.gif" width="100"/> **[Bank Loan Distribution Analysis](https://github.com/belix2228/Bank_Loan_Analysis)**
    - Developed a **Power BI** dashboard analyzing loan distribution metrics.
    - Extracted insights on loan types, repayment statuses, and more, enabling informed decision-making.
 
-2. **[Netflix Movies and TV Shows Data Analysis](https://github.com/belix2228/Netflix_SQL_Project)**
+2. <img src="https://media.giphy.com/media/1mnTKpJXkP2mBtVx0w/giphy.gif" width="100"/> **[Netflix Movies and TV Shows Data Analysis](https://github.com/belix2228/Netflix_SQL_Project)**
    - Performed comprehensive analysis using **SQL** on Netflix data to generate key business insights.
 
 ### 🎓 Education:
